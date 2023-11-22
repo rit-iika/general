@@ -1,0 +1,14 @@
+code ethics:code review
+
+1. naming of variables, methods, classes should be proper.
+2. follow single naming pattern 
+3. indentation should be taken careof
+4. refrain from using raw integers. define macro or constants instead
+5. refrain from using global variables
+6. variables/,ethpds should be private not public
+7. order- built-in include modules, user defined ones
+8. order- public, protected , private 
+9. main() should have very limited code and only important function callings
+10. use std:: instead of using namespace as it includes all the things defined in it.
+11. naming of the iterators should be proper
+12. keep the folder structure intact and clean.
